@@ -1,4 +1,4 @@
-# Agentic-AI-
+# Agentic-AI
 Security Threats from Agentic AI 
 • Context 
 The rise of Agentic AI,AI systems that can act autonomously, make decisions, and operate 
